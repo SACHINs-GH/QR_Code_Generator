@@ -27,7 +27,7 @@ button {
     background-color: #007bff;
     color: white;
     border-radius: 5px;
-    font-family: 'Montserrat';
+    font-family: 'Montserrat', serif;
     cursor: pointer;
 }
 button:hover {
